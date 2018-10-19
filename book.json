@@ -1,0 +1,9 @@
+{
+	"gitbook": ">1.x.x",
+	"plugins": [
+		"exercises"
+	],
+	"styles": {
+		"website": "styles/website.css"
+	}
+}
